@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:40 CST 2020
+orc-shims-1.5.2.jar>nexus-aliyun=
+orc-shims-1.5.2.pom>nexus-aliyun=
+orc-shims-1.5.2.pom>central=

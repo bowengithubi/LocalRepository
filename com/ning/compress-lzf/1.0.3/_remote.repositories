@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:15 CST 2020
+compress-lzf-1.0.3.pom>nexus-aliyun=
+compress-lzf-1.0.3.pom>central=
+compress-lzf-1.0.3-sources.jar>nexus-aliyun=
+compress-lzf-1.0.3.jar>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:11 CST 2020
+spark-unsafe_2.11-2.4.0.pom>central=
+spark-unsafe_2.11-2.4.0.pom>nexus-aliyun=
+spark-unsafe_2.11-2.4.0.jar>nexus-aliyun=

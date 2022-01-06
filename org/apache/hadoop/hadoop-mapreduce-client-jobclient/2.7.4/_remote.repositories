@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 13 21:29:00 CST 2020
+hadoop-mapreduce-client-jobclient-2.7.4-sources.jar>nexus-aliyun=
+hadoop-mapreduce-client-jobclient-2.7.4.jar>nexus-aliyun=
+hadoop-mapreduce-client-jobclient-2.7.4.pom>nexus-aliyun=

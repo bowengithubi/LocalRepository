@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:47:02 CST 2020
+jdo-api-3.0.1.pom>central=
+jdo-api-3.0.1.pom>nexus-aliyun=
+jdo-api-3.0.1.jar>nexus-aliyun=

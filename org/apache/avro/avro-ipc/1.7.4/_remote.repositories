@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 00:31:43 CST 2020
+avro-ipc-1.7.4.jar>nexus-aliyun=
+avro-ipc-1.7.4.pom>central=
+avro-ipc-1.7.4.jar>central=
+avro-ipc-1.7.4.pom>nexus-aliyun=

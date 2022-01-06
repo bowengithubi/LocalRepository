@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:52 CST 2020
+ST4-4.0.4.jar>nexus-aliyun=
+ST4-4.0.4.pom>central=
+ST4-4.0.4.pom>nexus-aliyun=

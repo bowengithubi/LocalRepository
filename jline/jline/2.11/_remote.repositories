@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:47 CST 2020
+jline-2.11-sources.jar>nexus-aliyun=
+jline-2.11.pom>nexus-aliyun=
+jline-2.11.jar>nexus-aliyun=

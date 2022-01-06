@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:57 CST 2020
+hive-metastore-1.2.1.spark2.jar>nexus-aliyun=
+hive-metastore-1.2.1.spark2.pom>nexus-aliyun=
+hive-metastore-1.2.1.spark2.pom>central=

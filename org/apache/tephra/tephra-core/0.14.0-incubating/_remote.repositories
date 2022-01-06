@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:14 CST 2020
+tephra-core-0.14.0-incubating.pom>nexus-aliyun=
+tephra-core-0.14.0-incubating.jar>nexus-aliyun=
+tephra-core-0.14.0-incubating-sources.jar>nexus-aliyun=

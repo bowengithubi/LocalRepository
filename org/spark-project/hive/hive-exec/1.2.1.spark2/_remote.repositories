@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:50 CST 2020
+hive-exec-1.2.1.spark2.pom>nexus-aliyun=
+hive-exec-1.2.1.spark2.pom>central=
+hive-exec-1.2.1.spark2.jar>nexus-aliyun=

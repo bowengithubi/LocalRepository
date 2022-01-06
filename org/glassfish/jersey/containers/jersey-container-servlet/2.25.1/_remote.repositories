@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:13 CST 2020
+jersey-container-servlet-2.25.1.jar>nexus-aliyun=
+jersey-container-servlet-2.25.1.pom>nexus-aliyun=
+jersey-container-servlet-2.25.1-sources.jar>nexus-aliyun=

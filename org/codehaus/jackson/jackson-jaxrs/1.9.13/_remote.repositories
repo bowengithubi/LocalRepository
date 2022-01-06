@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:45:58 CST 2020
+jackson-jaxrs-1.9.13.jar>nexus-aliyun=
+jackson-jaxrs-1.9.13.pom>central=
+jackson-jaxrs-1.9.13.pom>nexus-aliyun=

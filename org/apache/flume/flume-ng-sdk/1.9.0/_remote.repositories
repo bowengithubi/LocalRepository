@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 00:31:43 CST 2020
+flume-ng-sdk-1.9.0.jar>nexus-aliyun=
+flume-ng-sdk-1.9.0.pom>nexus-aliyun=
+flume-ng-sdk-1.9.0.pom>central=
+flume-ng-sdk-1.9.0.jar>central=

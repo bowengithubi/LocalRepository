@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 14 10:21:17 CST 2020
+spark-network-yarn_2.12-3.0.0.pom>nexus-aliyun=
+spark-network-yarn_2.12-3.0.0.jar>nexus-aliyun=

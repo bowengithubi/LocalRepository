@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:09 CST 2020
+jest-common-5.3.3.pom>nexus-aliyun=
+jest-common-5.3.3-sources.jar>nexus-aliyun=
+jest-common-5.3.3.jar>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:07 CST 2020
+jackson-annotations-2.6.7.pom>nexus-aliyun=
+jackson-annotations-2.6.7.pom>central=
+jackson-annotations-2.6.7.jar>nexus-aliyun=

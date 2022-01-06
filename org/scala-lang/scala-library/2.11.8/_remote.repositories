@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:45:15 CST 2020
+scala-library-2.11.8.pom>central=
+scala-library-2.11.8.pom>nexus-aliyun=
+scala-library-2.11.8.jar>nexus-aliyun=
+scala-library-2.11.8-sources.jar>nexus-aliyun=

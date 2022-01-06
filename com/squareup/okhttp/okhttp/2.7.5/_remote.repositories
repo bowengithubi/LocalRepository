@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 19 10:58:51 CST 2020
+okhttp-2.7.5-sources.jar>nexus-aliyun=
+okhttp-2.7.5.pom>nexus-aliyun=
+okhttp-2.7.5.jar>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:48 CST 2020
+pyrolite-4.30-sources.jar>nexus-aliyun=
+pyrolite-4.30.pom>nexus-aliyun=
+pyrolite-4.30.jar>nexus-aliyun=

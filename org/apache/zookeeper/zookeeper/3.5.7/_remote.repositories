@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 02 11:27:41 CST 2020
+zookeeper-3.5.7.jar>nexus-aliyun=
+zookeeper-3.5.7-sources.jar>nexus-aliyun=
+zookeeper-3.5.7.pom>nexus-aliyun=

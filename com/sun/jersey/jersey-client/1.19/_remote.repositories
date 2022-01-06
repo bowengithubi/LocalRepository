@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 19 10:58:57 CST 2020
+jersey-client-1.19.pom>nexus-aliyun=
+jersey-client-1.19-sources.jar>nexus-aliyun=
+jersey-client-1.19.jar>nexus-aliyun=

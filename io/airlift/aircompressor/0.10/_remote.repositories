@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:40 CST 2020
+aircompressor-0.10-sources.jar>nexus-aliyun=
+aircompressor-0.10.pom>central=
+aircompressor-0.10.pom>nexus-aliyun=
+aircompressor-0.10.jar>nexus-aliyun=

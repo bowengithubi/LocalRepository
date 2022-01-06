@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 27 23:08:46 CST 2020
+flink-table-api-scala-bridge_2.12-1.10.1.jar>nexus-aliyun=
+flink-table-api-scala-bridge_2.12-1.10.1.pom>nexus-aliyun=

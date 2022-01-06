@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 15 15:43:51 CST 2021
+guava-23.6-jre.jar>nexus-aliyun=
+guava-23.6-jre.pom>nexus-aliyun=

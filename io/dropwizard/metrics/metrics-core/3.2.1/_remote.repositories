@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 10 20:46:57 CST 2020
+metrics-core-3.2.1.jar>nexus-aliyun=
+metrics-core-3.2.1.pom>nexus-aliyun=

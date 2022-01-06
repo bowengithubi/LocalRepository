@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:37 CST 2020
+scala-parser-combinators_2.11-1.1.0.pom>central=
+scala-parser-combinators_2.11-1.1.0.pom>nexus-aliyun=
+scala-parser-combinators_2.11-1.1.0.jar>nexus-aliyun=

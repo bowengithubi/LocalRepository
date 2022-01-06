@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 19 10:58:52 CST 2020
+okio-1.6.0.pom>nexus-aliyun=
+okio-1.6.0.jar>nexus-aliyun=
+okio-1.6.0-sources.jar>nexus-aliyun=

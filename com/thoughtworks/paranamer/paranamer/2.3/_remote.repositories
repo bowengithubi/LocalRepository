@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 00:31:43 CST 2020
+paranamer-2.3.pom>central=
+paranamer-2.3.jar>central=
+paranamer-2.3.pom>nexus-aliyun=
+paranamer-2.3-sources.jar>nexus-aliyun=
+paranamer-2.3.jar>nexus-aliyun=

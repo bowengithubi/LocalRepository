@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:35 CST 2020
+py4j-0.10.7.pom>nexus-aliyun=
+py4j-0.10.7.jar>nexus-aliyun=
+py4j-0.10.7.pom>central=

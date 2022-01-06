@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:04:32 CST 2020
+json-smart-2.2.1.jar>nexus-aliyun=
+json-smart-2.2.1-sources.jar>nexus-aliyun=
+json-smart-2.2.1.pom>nexus-aliyun=

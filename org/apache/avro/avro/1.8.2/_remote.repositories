@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:40:37 CST 2020
+avro-1.8.2.jar>nexus-aliyun=
+avro-1.8.2.pom>central=
+avro-1.8.2.pom>nexus-aliyun=

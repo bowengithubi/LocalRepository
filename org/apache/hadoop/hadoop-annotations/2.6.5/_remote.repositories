@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:45:20 CST 2020
+hadoop-annotations-2.6.5.jar>nexus-aliyun=
+hadoop-annotations-2.6.5.pom>nexus-aliyun=
+hadoop-annotations-2.6.5.pom>central=

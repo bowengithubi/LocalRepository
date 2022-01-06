@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:05:25 CST 2020
+parquet-hadoop-1.10.1.pom>nexus-aliyun=
+parquet-hadoop-1.10.1.jar>nexus-aliyun=
+parquet-hadoop-1.10.1-sources.jar>nexus-aliyun=

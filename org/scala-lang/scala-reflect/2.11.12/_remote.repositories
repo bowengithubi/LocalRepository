@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 13:48:37 CST 2020
+scala-reflect-2.11.12.pom>nexus-aliyun=
+scala-reflect-2.11.12.pom>central=
+scala-reflect-2.11.12.jar>nexus-aliyun=

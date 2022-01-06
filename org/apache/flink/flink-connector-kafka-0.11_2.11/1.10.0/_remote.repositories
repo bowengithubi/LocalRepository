@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 24 00:22:01 CST 2020
+flink-connector-kafka-0.11_2.11-1.10.0.jar>nexus-aliyun=
+flink-connector-kafka-0.11_2.11-1.10.0.pom>nexus-aliyun=
+flink-connector-kafka-0.11_2.11-1.10.0-sources.jar>nexus-aliyun=

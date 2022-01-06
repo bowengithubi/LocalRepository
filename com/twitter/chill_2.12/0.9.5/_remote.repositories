@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:05:39 CST 2020
+chill_2.12-0.9.5.pom>nexus-aliyun=
+chill_2.12-0.9.5-sources.jar>nexus-aliyun=
+chill_2.12-0.9.5.jar>nexus-aliyun=

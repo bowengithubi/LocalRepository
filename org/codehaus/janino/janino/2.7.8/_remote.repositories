@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:05:07 CST 2020
+janino-2.7.8.jar>nexus-aliyun=
+janino-2.7.8-sources.jar>nexus-aliyun=
+janino-2.7.8.pom>nexus-aliyun=

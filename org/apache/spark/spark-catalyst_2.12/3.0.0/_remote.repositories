@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 08 15:58:19 CST 2020
+spark-catalyst_2.12-3.0.0-sources.jar>nexus-aliyun=
+spark-catalyst_2.12-3.0.0.pom>nexus-aliyun=
+spark-catalyst_2.12-3.0.0.jar>nexus-aliyun=

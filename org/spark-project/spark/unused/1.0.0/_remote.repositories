@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:04 CST 2020
+unused-1.0.0.pom>central=
+unused-1.0.0.jar>nexus-aliyun=
+unused-1.0.0.pom>nexus-aliyun=

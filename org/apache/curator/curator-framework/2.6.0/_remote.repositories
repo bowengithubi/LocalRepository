@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:45:43 CST 2020
+curator-framework-2.6.0.pom>central=
+curator-framework-2.6.0.jar>nexus-aliyun=
+curator-framework-2.6.0.pom>nexus-aliyun=

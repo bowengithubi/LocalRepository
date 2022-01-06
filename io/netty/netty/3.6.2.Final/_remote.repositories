@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:45:49 CST 2020
+netty-3.6.2.Final.jar>nexus-aliyun=
+netty-3.6.2.Final.pom>nexus-aliyun=
+netty-3.6.2.Final.pom>central=

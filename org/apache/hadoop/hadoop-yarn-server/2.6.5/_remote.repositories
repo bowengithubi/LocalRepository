@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:01 CST 2020
+hadoop-yarn-server-2.6.5.pom>nexus-aliyun=
+hadoop-yarn-server-2.6.5.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:54 CST 2020
+jackson-core-asl-1.9.2-sources.jar>nexus-aliyun=
+jackson-core-asl-1.9.2.jar>nexus-aliyun=
+jackson-core-asl-1.9.2.pom>nexus-aliyun=
+jackson-core-asl-1.9.2.pom>central=

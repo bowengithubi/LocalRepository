@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 13 18:27:34 CST 2020
+hbase-procedure-2.0.0.jar>nexus-aliyun=
+hbase-procedure-2.0.0.pom>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:05:28 CST 2020
+commons-daemon-1.0.13.jar>nexus-aliyun=
+commons-daemon-1.0.13-sources.jar>nexus-aliyun=
+commons-daemon-1.0.13.pom>nexus-aliyun=

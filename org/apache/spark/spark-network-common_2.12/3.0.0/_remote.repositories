@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:03:46 CST 2020
+spark-network-common_2.12-3.0.0.jar>nexus-aliyun=
+spark-network-common_2.12-3.0.0.pom>nexus-aliyun=
+spark-network-common_2.12-3.0.0-sources.jar>nexus-aliyun=

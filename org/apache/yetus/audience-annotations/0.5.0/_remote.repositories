@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:49 CST 2020
+audience-annotations-0.5.0.pom>nexus-aliyun=
+audience-annotations-0.5.0-sources.jar>nexus-aliyun=
+audience-annotations-0.5.0.jar>nexus-aliyun=

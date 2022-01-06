@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 20 11:15:02 CST 2020
+MapReduce-1.0-SNAPSHOT.pom>=
+mapreduce-1.0-SNAPSHOT.jar>=
+mapreduce-1.0-SNAPSHOT.pom>=
+MapReduce-1.0-SNAPSHOT.jar>=

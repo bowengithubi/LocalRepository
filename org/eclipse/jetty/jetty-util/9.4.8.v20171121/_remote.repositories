@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:03:51 CST 2020
+jetty-util-9.4.8.v20171121.jar>nexus-aliyun=
+jetty-util-9.4.8.v20171121.pom>nexus-aliyun=
+jetty-util-9.4.8.v20171121-sources.jar>nexus-aliyun=

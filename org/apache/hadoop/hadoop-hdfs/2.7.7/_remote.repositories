@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 24 20:03:22 CST 2020
+hadoop-hdfs-2.7.7.jar>nexus-aliyun=
+hadoop-hdfs-2.7.7-sources.jar>nexus-aliyun=
+hadoop-hdfs-2.7.7.pom>nexus-aliyun=

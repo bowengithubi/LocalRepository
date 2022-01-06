@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:56 CST 2020
+calcite-avatica-1.2.0-incubating.jar>nexus-aliyun=
+calcite-avatica-1.2.0-incubating.pom>nexus-aliyun=
+calcite-avatica-1.2.0-incubating.pom>central=

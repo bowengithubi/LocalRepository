@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.ehcache</groupId>
+  <artifactId>ehcache</artifactId>
+  <version>3.0.0.m3</version>
+  <name>Ehcache</name>
+  <description>Ehcache single jar, containing all modules</description>
+  <url>http://ehcache.org</url>
+  <organization>
+    <name>Terraccotta</name>
+    <url>http://terracotta.org</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Alex Snaps</name>
+      <email>alex.snaps@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@617e8a35</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Louis Jacomet</name>
+      <email>ljacomet@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@58911b9f</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Tim Eck</name>
+      <email>timeck@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@b240236</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Chris Dennis</name>
+      <email>chris.w.dennis@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@60017671</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Ludovic Orban</name>
+      <email>lorban@bitronix.be</email>
+      <organization>org.apache.maven.model.Organization@78df42ce</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Clifford W. Johnson</name>
+      <email>clifford.johnson@softwareag.com</email>
+      <organization>org.apache.maven.model.Organization@409aec9d</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Aurélien Broszniowski</name>
+      <email>jsoftbiz@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@f31d024</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Vitaliy Funshteyn</name>
+      <email>vfunshte@terracottatech.com</email>
+      <organization>org.apache.maven.model.Organization@5724c22f</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Anthony Dahanne</name>
+      <email>anthony.dahanne@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@2c59e61a</organization>
+      <organizationUrl>http://potloc.ca/</organizationUrl>
+    </developer>
+    <developer>
+      <name>Gaurav Mangalick</name>
+      <email>gaurav.mangalick@softwareag.com</email>
+      <organization>org.apache.maven.model.Organization@1e54f9f6</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+    <developer>
+      <name>Hung Huynh</name>
+      <email>hhuynh@gmail.com</email>
+      <organization>org.apache.maven.model.Organization@26426fde</organization>
+      <organizationUrl>http://ehcache.org</organizationUrl>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/ehcache/ehcache3.git</connection>
+    <developerConnection>scm:git:git@github.com:ehcache/ehcache3.git</developerConnection>
+    <url>https://github.com/ehcache/ehcache3</url>
+  </scm>
+  <issueManagement>
+    <system>Github</system>
+    <url>https://github.com/ehcache/ehcache3/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.7</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.codehaus.btm</groupId>
+      <artifactId>btm</artifactId>
+      <version>2.1.4</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.terracotta</groupId>
+      <artifactId>offheap-store</artifactId>
+      <version>2.1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>javax.transaction</groupId>
+      <artifactId>jta</artifactId>
+      <version>1.1</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 19 10:57:06 CST 2020
+re2j-1.1-sources.jar>nexus-aliyun=
+re2j-1.1.pom>nexus-aliyun=
+re2j-1.1.jar>nexus-aliyun=

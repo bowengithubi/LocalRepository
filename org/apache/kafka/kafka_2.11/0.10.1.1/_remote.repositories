@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 17:06:29 CST 2020
+kafka_2.11-0.10.1.1-sources.jar>nexus-aliyun=
+kafka_2.11-0.10.1.1.jar>nexus-aliyun=
+kafka_2.11-0.10.1.1-test.jar>nexus-aliyun=
+kafka_2.11-0.10.1.1.pom>nexus-aliyun=

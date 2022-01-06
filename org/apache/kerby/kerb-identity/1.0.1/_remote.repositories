@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 19 10:58:48 CST 2020
+kerb-identity-1.0.1-sources.jar>nexus-aliyun=
+kerb-identity-1.0.1.jar>nexus-aliyun=
+kerb-identity-1.0.1.pom>nexus-aliyun=

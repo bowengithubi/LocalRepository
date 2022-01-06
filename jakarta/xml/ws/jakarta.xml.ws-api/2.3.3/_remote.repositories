@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 07 09:04:29 CST 2021
+jakarta.xml.ws-api-2.3.3.jar>nexus-aliyun=
+jakarta.xml.ws-api-2.3.3.pom>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 14 11:46:18 CST 2020
+scala-xml_2.11-1.0.6.pom>nexus-aliyun=
+scala-xml_2.11-1.0.6.jar>nexus-aliyun=
+scala-xml_2.11-1.0.6.pom>central=

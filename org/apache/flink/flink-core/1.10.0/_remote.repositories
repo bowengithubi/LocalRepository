@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 23 19:52:46 CST 2020
+flink-core-1.10.0-sources.jar>nexus-aliyun=
+flink-core-1.10.0.jar>nexus-aliyun=
+flink-core-1.10.0.pom>nexus-aliyun=
